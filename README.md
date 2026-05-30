@@ -4,8 +4,8 @@ Website for a gym on Hamra Street, Beirut. This is my **CSCI390 Web Programming*
 
 In Phase 1 I built the site with HTML and CSS. For Phase 2 I rebuilt it using **React**, **React Router**, and **Vite** so the pages switch without reloading the whole site.
 
-**Live site:** put your link here after you deploy  
-**GitHub:** put your repo link here
+**Live site:** superb-gingersnap-dfbb37.netlify.app  
+**GitHub:** https://github.com/ElRihawi/amjad-elite-fitness
 
 ## What the site has
 
@@ -25,25 +25,6 @@ In Phase 1 I built the site with HTML and CSS. For Phase 2 I rebuilt it using **
 | Vite | 5.4.11 |
 | CSS | plain CSS in `app.css` |
 
-## How to run it
-
-You need **Node.js** installed (v18 or newer is fine).
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the link in the terminal (usually `http://localhost:5173`).
-
-To build for production:
-
-```bash
-npm run build
-npm run preview
-```
-
-The built files go in the `dist` folder — that is what you upload to Netlify / Vercel / GitHub Pages.
 
 ## Main folders
 
@@ -104,4 +85,4 @@ Mobile:
 ---
 
 **Course:** CSCI390 Web Programming — Phase 2, Spring 2025–2026  
-Lebanese American University
+Lebanese International University
